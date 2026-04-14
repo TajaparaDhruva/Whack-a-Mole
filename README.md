@@ -1,5 +1,8 @@
 # 🎯 Whack-a-Mole Game
 
+<img width="1880" height="978" alt="image" src="https://github.com/user-attachments/assets/4e52f7cd-80ad-4e1e-a4c4-97f038f21c4d" />
+
+
 A fun and interactive **Whack-a-Mole browser game** built using HTML, CSS, and JavaScript.  
 The objective is simple: hit the moles as they randomly appear and score as many points as possible before time runs out.
 
